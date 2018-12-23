@@ -182,7 +182,7 @@ if json_item['appendComment'] is not None:
 AppendComment.txt
 
 <div align="center">
-<img src="cat_spider_img/AppendComment.jpg" alt="商品数据"></img>
+<img src="cat_spider_img/appendComment.jpg" alt="商品数据"></img>
 </div>
 
 代码：
@@ -245,7 +245,7 @@ print(comment_dict)
 差评结果
 
 <div align="center">
-<img src="bad.jpg" alt="商品数据"></img>
+<img src="cat_spider_img\bad.jpg" alt="商品数据"></img>
 </div>
 
 
