@@ -6,13 +6,13 @@
 
 ### 1. 数据收集
 
->采用selenium
+在天猫上搜索近视眼镜片
 
 <div align="center">
 <img src="cat_spider_img\class_search.jpg" width="500" height="500" alt="商品搜索图片"></img>
 </div>
 
-#### 得到的商品url
+#### 得到的商品url（selenium）
 
 https://list.tmall.com/search_product.htm?q=%BD%FC%CA%D3%D1%DB%BE%B5%C6%AC&type=p&spm=a220m.1000858.a2227oh.d100&from=.list.pc_1_searchbutton
 
