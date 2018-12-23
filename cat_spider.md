@@ -32,7 +32,7 @@ https://list.tmall.com/search_product.htm?spm=a220m.1000858.0.0.3888589de9xg9o&s
 
 
 ```
-for page in range(1, 78):
+for page in range(1, 81):
     s = (page - 1)*60
     search_url = "https://list.tmall.com/search_product.htm" + "?cat=50041298&s=" + str(s)\
                  + "&q=%BD%FC%CA%D3%D1%DB%BE%B5%C6%AC&sort=s&style=g&from=mallfp..pc_1_searchbutton&active=2" \
